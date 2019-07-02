@@ -64,3 +64,16 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch}` | Preview changes before merging |
 
+
+
+PS C:\Temp\Git\ACEDSA> git checkout Nikhil
+Switched to branch 'Nikhil'
+PS C:\Temp\Git\ACEDSA> git status
+On branch Nikhil
+nothing to commit, working tree clean
+PS C:\Temp\Git\ACEDSA> git push
+fatal: The current branch Nikhil has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin Nikhil
+
