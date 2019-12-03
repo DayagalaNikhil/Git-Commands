@@ -66,12 +66,12 @@ _A list of my commonly used Git commands_
 
 
 
-PS C:\Temp\Git\ACEDSA> git checkout Nikhil
+PS C:\Temp\Git\HELLO> git checkout Nikhil
 Switched to branch 'Nikhil'
-PS C:\Temp\Git\ACEDSA> git status
+PS C:\Temp\Git\HELLO> git status
 On branch Nikhil
 nothing to commit, working tree clean
-PS C:\Temp\Git\ACEDSA> git push
+PS C:\Temp\Git\HELLO> git push
 fatal: The current branch Nikhil has no upstream branch.
 To push the current branch and set the remote as upstream, use
 
